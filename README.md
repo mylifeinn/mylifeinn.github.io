@@ -1,4 +1,3 @@
 ## Welcome
 ### Blog on [issues](https://github.com/mylifeinn/mylifeinn.github.io/issues)
-***
->Victory@2022
+>VictoryChan
